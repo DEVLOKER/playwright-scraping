@@ -3,7 +3,7 @@ in this project will try to discover how to use playwright to extract content fr
 
 !["scraping process"](https://github.com/DEVLOKER/playwright-scraping/blob/main/screenshots/scraping-process.jpg)
 
-for more details you can read my post on ["dev.to"](https://dev.to/devloker/playwright-scraping-infinite-loading-pagination-2cn6-temp-slug-2162893).
+for more details you can read my post on ["dev.to"](https://dev.to/devloker/playwright-scraping-infinite-loading-pagination-4pid).
 
 
 ## How to run it?
